@@ -42,8 +42,9 @@ Besoin en une ligne, tableau des coupes (`Élément | Verdict | Raison | Risque`
 ## Exemples d'usage
 
 - « Applique le rasoir d'Ockham à cette architecture de PWA. »
-- « Simplifie ce workflow : formulaire → Zapier → Airtable → Make → e-mail. »
-- « C'est trop compliqué, vise une version minimale de cette offre. »
+- « Simplifie ce site (WordPress ou page générée par IA) : une page d'accueil et un formulaire de contact, rien de plus. »
+- « C'est trop compliqué : simplifie ma stratégie marketing, je veux un plan que je peux tenir seul, avec un seul canal prioritaire. »
+- « Simplifie mon funnel de vente : je veux le chemin le plus court entre ma page d'accueil et une demande de devis. »
 - « Taille ce texte d'accueil sans perdre le ton. »
 
 ## Installation
