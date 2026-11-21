@@ -1,4 +1,4 @@
-# rasoir-ockham
+# Rasoir d'Ockham
 
 > *Numquam ponenda est pluralitas sine necessitate.*  
 > — Guillaume d'Ockham, commentaire des *Sentences* (XIVe siècle).
