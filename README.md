@@ -1,4 +1,4 @@
-# Rasoir d'Ockham
+# Rasoir d'Ockham 🪒
 « Il ne faut jamais multiplier les éléments sans nécessité. »
 
 
