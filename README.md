@@ -1,5 +1,5 @@
 # Rasoir d'Ockham
-« Il ne faut jamais multiplier les éléments sans nécessité. »*
+« Il ne faut jamais multiplier les éléments sans nécessité. » *
 
 
 > *Numquam ponenda est pluralitas sine necessitate.*  
@@ -7,8 +7,8 @@
 >
 > *Entia non sunt multiplicanda praeter necessitatem.*  
 > — Formule la plus célèbre, qui ne figure pas dans ses écrits : elle date du XVIIe siècle (John Punch, 1639).
->
-> * Paraphrase en français actuel
+
+* Paraphrase en français actuel
 
 
 Un skill au format [Agent Skills](https://agentskills.io) (Claude, Codex, Gemini CLI, Cursor…) qui applique le rasoir d'Ockham : retirer ce qui est superflu (dépendances, étapes, options, sections, affirmations) sans toucher à la fonction principale. À efficacité égale, la solution la plus simple gagne.
