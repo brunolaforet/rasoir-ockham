@@ -12,7 +12,7 @@
 
 Un skill au format [Agent Skills](https://agentskills.io) (Claude, Codex, Gemini CLI, Cursor…) qui applique le rasoir d'Ockham : retirer ce qui est superflu (dépendances, étapes, options, sections, affirmations) sans toucher à la fonction principale. À efficacité égale, la solution la plus simple gagne.
 
-Il fonctionne sur le code, les architectures web (PWA, WordPress), les workflows, la stratégie marketing et le copywriting.
+Il fonctionne sur le code, les architectures web (PWA, WordPress), les workflows, la stratégie marketing et le copywriting. Ou une recette de cuisine...
 
 ## Ce que fait le skill
 
